@@ -1,6 +1,8 @@
 
 const button = document.getElementById('see-review');
 
+let price = 27;
+
 button.addEventListener('click', function() {
 
     const review = document.getElementById('review');
