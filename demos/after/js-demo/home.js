@@ -3,7 +3,7 @@ const button = document.getElementById('see-review');
 
 let price = 27;
 
-let baloons = 32;
+let baloons = 33;
 
 button.addEventListener('click', function() {
 
