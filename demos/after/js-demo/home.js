@@ -5,6 +5,8 @@ let price = 27;
 
 let baloons = 33;
 
+let goog = 45;
+
 button.addEventListener('click', function() {
 
     const review = document.getElementById('review');
